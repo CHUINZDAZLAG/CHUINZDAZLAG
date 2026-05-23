@@ -25,7 +25,7 @@ I am committed to continuous learning, embracing challenges, and developing crea
 ### 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,js,python,mysql" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,java,python,mysql" />
 </p>
 
 ---
@@ -46,7 +46,7 @@ I am committed to continuous learning, embracing challenges, and developing crea
 ### ⚙ Frameworks & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,spring,git,vscode,figma,postman,notion" />
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,idea,docker,git,vscode,figma,postman,notion" />
 
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
 
