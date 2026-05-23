@@ -4,7 +4,7 @@
 
 ### 🚀 Product Development | Backend Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+Developer;Product+Development+Enthusiast;Building+Scalable+Systems;AI+%26+Technology+Explorer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+Developer;Product+Development+Enthusiast;Startup+%26+Website+Builder;Building+Scalable+Digital+Products" />
 
 </div>
 
@@ -12,7 +12,11 @@
 
 ## 🌟 About Me
 
-Upon graduation, I plan to pursue advanced studies in South Korea while strengthening my academic and achievement portfolio. Passionate about the intersection of economics and information technology, I am committed to continuous learning, embracing challenges, and achieving impactful goals.
+Upon graduation, I plan to pursue advanced studies in South Korea while continuously strengthening my academic background and professional portfolio.  
+
+Passionate about startups, website development, and digital product innovation, I aspire to build impactful platforms and scalable solutions that create meaningful value for businesses and communities.  
+
+I am committed to continuous learning, embracing challenges, and developing creative solutions through technology, entrepreneurship, and collaboration.
 
 ---
 
@@ -24,13 +28,15 @@ Upon graduation, I plan to pursue advanced studies in South Korea while strength
   <img src="https://skillicons.dev/icons?i=cpp,js,python,mysql" />
 </p>
 
+---
+
 ### 🗄 Databases
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
-</p>
 
-- Oracle Database
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
 
 ---
 
@@ -38,9 +44,9 @@ Upon graduation, I plan to pursue advanced studies in South Korea while strength
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,spring,git,vscode,figma,postman,notion" />
-</p>
 
-- Microsoft Office
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
+</p>
 
 ---
 
@@ -74,6 +80,7 @@ Upon graduation, I plan to pursue advanced studies in South Korea while strength
 </p>
 
 ---
+
 ## 🔥 Contribution Streak
 
 <p align="center">
@@ -86,6 +93,6 @@ Upon graduation, I plan to pursue advanced studies in South Korea while strength
 
 <div align="center">
 
-> *"Building meaningful products through technology, creativity, and continuous learning."*
+> *"Building meaningful digital products through technology, creativity, and innovation."*
 
 </div>
