@@ -37,8 +37,6 @@ I am committed to continuous learning, embracing challenges, and developing crea
 
   <img src="https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
-  <img src="https://cdn.simpleicons.org/oracle/F80000" width="48"/>
-
 </p>
 
 ---
@@ -49,8 +47,6 @@ I am committed to continuous learning, embracing challenges, and developing crea
   <img src="https://skillicons.dev/icons?i=nodejs,spring,idea,docker,git,vscode,figma,postman,notion" />
 
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
-
-  <img src="https://cdn.simpleicons.org/microsoftoffice/D83B01" width="48"/>
 
 </p>
 
