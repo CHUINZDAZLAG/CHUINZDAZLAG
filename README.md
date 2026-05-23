@@ -35,7 +35,10 @@ I am committed to continuous learning, embracing challenges, and developing crea
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
 
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+  <img src="https://cdn.simpleicons.org/oracle/F80000" width="48"/>
+
 </p>
 
 ---
@@ -46,6 +49,9 @@ I am committed to continuous learning, embracing challenges, and developing crea
   <img src="https://skillicons.dev/icons?i=nodejs,spring,git,vscode,figma,postman,notion" />
 
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
+
+  <img src="https://cdn.simpleicons.org/microsoftoffice/D83B01" width="48"/>
+
 </p>
 
 ---
@@ -70,13 +76,15 @@ I am committed to continuous learning, embracing challenges, and developing crea
 ## 🌐 Connect With Me
 
 <p align="left">
+
   <a href="https://www.linkedin.com/in/th%E1%BB%8B-thanh-ch%C3%A2u-nguy%E1%BB%85n-844a4b395/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://url-shortener.me/IJZA" target="_blank">
-    <img src="https://img.shields.io/badge/Notion-111111?style=for-the-badge&logo=notion&logoColor=white" />
+  <a href="https://www.notion.so/ChuInzDazLaz-s-Project-32ff50a57c8d805bbdb0ee61f62555b3" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-111111?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
+
 </p>
 
 ---
